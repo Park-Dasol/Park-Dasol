@@ -1,6 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=30&fontAlignY=40&color=c4e0e5&text=Park%20Dasol&fontColor=4ca1af)
 
-### Hi there, I'm Dasol! 👋
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -36,9 +35,9 @@
 
 
 
-<div align="center">
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Park-Dasol)](https://github.com/anuraghazra/github-readme-stats)
-<div>
+
 
 
 <!--
